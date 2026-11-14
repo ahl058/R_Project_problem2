@@ -1,0 +1,9 @@
+Tasks:
+- Calcular el área total de grasa y el número de gotas lipídicas en cada imagen.
+	- Básicamente es ordenarlo por cada imagen
+	- Calcular el área total de pixel 2 -> sumar las áreas
+	- Contar las observaciones que hay
+- Calcular el tamaño medio de los adipocitos -> hacer la media del tamaño agrupando por: 
+	- Por imagen: 1, 2,3,4,5
+	- Por ratón: 1,2,3,4,5,6,7,8,9,10
+	- Por grupo: CTRL0, ...
